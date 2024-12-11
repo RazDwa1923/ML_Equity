@@ -1,6 +1,6 @@
 # ML Pricing Algorithm Plan
 
-### Objective
+### Objective for the Project
 
 The aim of this document is to outline the next steps I will go through in order to build a ML model to predict P/E ratios of stocks
 
